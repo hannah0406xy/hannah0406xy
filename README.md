@@ -4,7 +4,7 @@
 Hi there! I'm Xinyi Wang, a data enthusiast pursuing my Master's in Business Analytics at McGill University. With a background in Economics and a passion for transforming complex data into actionable insights, I specialize in machine learning, predictive analytics, and developing data-driven solutions.
 
 ## 🎓 Education
-- **McGill University** | Master of Business Analytics | 2024-2025
+- **McGill University** | Master of Management in Analytics | 2024-2025
 - **McGill University** | Bachelor of Economics | 2020-2024
 
 ## 💻 Technical Skills

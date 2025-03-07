@@ -40,4 +40,4 @@ Currently seeking opportunities in Big Data Development where I can contribute t
 
 ## 📫 How to reach me
 - Email: xinyi.wang8@mail.mcgill.ca
-- LinkedIn: [Xinyi Wang](https://www.linkedin.com/in/xinyiwang/)
+- LinkedIn: [Xinyi Wang](www.linkedin.com/in/hannah-wang-780b92290)

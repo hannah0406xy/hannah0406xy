@@ -1,7 +1,7 @@
 # Hi there, I'm Hannah (Xinyi) Wang! 👋
 
 ## 🔍 About Me
-- 🎓 **Master of Management in Analytics** @ McGill University (Current GPA: 3.8/4.0)
+- 🎓 **Master of Management in Analytics** @ McGill University (GPA: 3.82/4.0)
 - 🏦 **Financial Crime Detection & Credit Risk Specialist**
 - 📊 Former **Data Analyst Intern @ People's Bank of China**
 - 🛡️ Specialized in **AML Analytics, Fraud Detection, and Regulatory Compliance**
